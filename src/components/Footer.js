@@ -153,7 +153,7 @@ const Footer = () => {
                   This portfolio template was built using the amazing starterSpark framework
                 </p>
                 <p className="text-cyan-300 font-medium">
-                  <a href="http://github.com/SamparkBhol/starterSpark" className="hover:text-cyan-200 transition-colors">
+                  <a href="https://github.com/SamparkBhol/starterpack2" className="hover:text-cyan-200 transition-colors">
                     🔗 github.com/SamparkBhol/starterSpark
                   </a>
                 </p>
